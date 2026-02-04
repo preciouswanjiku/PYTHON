@@ -1,0 +1,1 @@
+#Create a python program that is able to calculate the simple interest given the principle as 5000, rate as 5% and time as 8years, SI =(p * r *t)/100
