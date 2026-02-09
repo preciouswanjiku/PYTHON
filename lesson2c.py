@@ -20,4 +20,3 @@ player =  {
     "age" : 40,
     "teams" :["PSG", "Berselona", "Argentina"]
 }
-print
